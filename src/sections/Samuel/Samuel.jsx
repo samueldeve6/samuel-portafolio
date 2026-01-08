@@ -52,7 +52,7 @@ function Samuel() {
         <p className= {styles.description}>
           With a passion for developing modern React web apps for comercial businesses.
         </p>
-        <a href={CV}download>
+        <a href={CV}>
           <button className="hover" >Resume</button>
         </a>
       </div>
