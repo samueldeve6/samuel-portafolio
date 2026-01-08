@@ -4,7 +4,7 @@ import styles from './FooterStyles.module.css'
 function Footer() {
   return (
     <section id='footer' className={styles.container}>
-        <p>&copy; 2026 Samuel Remolina. <br />
+        <p>&copy; 2026 Samuel Remolina Alvarez. <br />
         All rights reserved.</p>
     </section>
   )

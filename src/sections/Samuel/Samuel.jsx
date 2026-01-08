@@ -1,5 +1,5 @@
 import styles from './SamuelStyles.module.css'
-import heroImg from '../../assets/hero-img.png'
+import heroImg from '../../assets/samueldev2img.png'
 import sun from '../../assets/sun.svg'  
 import moon from '../../assets/moon.svg'
 import twitterLight from '../../assets/twitter-light.svg'
@@ -42,10 +42,10 @@ function Samuel() {
           <a href="https://twitter.com/" target='_blank'>
           <img src={twitterIcon} alt="Twitter icon" />
           </a>
-          <a href="https://github.com/" target='_blank'>
+          <a href="https://github.com/samueldeve6" target='_blank'>
           <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target='_blank'>
+          <a href="https://www.linkedin.com/in/samuel-remolina-alvarez-b17b84212/" target='_blank'>
           <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
