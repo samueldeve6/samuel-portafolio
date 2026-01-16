@@ -1,7 +1,10 @@
 .container {
+    min-height: 50vh;
+    justify-content: center;  
     display: flex;
     flex-direction: column;
     text-align: center;
+    padding: 4rem 1rem;   
 
     span {
         display: flex;
