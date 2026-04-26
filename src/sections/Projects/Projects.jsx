@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './ProjectsStyles.module.css'
-import innovatech from '../../assets/logo-innova-tech.png'
+import innovatech from '../../assets/logoInnovatech.png'
 import freshBurger from '../../assets/fresh-burger.png'
 import hipsster from '../../assets/hipsster.png'
 import fitLift from '../../assets/fitlift.png'
