@@ -13,7 +13,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard 
           src={viberr}
-          link="https://github.com/samueldeve6/Escritura_en_el_aire"
+          link="https://innova-tech-innovatech.vercel.app/"
           h3="Viberr"
           p="Streaming app"
         />
