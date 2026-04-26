@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './ProjectsStyles.module.css'
-import viberr from '../../assets/viberr.png'
+import innovatech from '../../assets/logo-innova-tech.png'
 import freshBurger from '../../assets/fresh-burger.png'
 import hipsster from '../../assets/hipsster.png'
 import fitLift from '../../assets/fitlift.png'
@@ -12,10 +12,10 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard 
-          src={viberr}
+          src={innovatech}
           link="https://innova-tech-innovatech.vercel.app/"
-          h3="Viberr"
-          p="Streaming app"
+          h3="InnovaTech"
+          p="Tech Company Website"
         />
 
         <ProjectCard 
