@@ -20,9 +20,9 @@ function Projects() {
 
         <ProjectCard 
           src={freshBurger}
-          link="https://github.com/samueldeve6/Gestion_De_Citas_Medicas"
+          link="https://dashboard-project-coral-mu.vercel.app/"
           h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          p="Dashboard Project"
         />
 
         <ProjectCard 
