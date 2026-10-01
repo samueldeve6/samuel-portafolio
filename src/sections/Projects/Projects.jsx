@@ -27,14 +27,14 @@ function Projects() {
 
         <ProjectCard 
           src={hipsster}
-          link="https://github.com/samueldeve6/Gestion_De_Citas_Medicas"
+          link="https://chatbot-para-negocio.vercel.app/"
           h3="Hipsster"
           p="Glasses Shop"
         />
 
         <ProjectCard 
           src={fitLift}
-          link="https://github.com/samueldeve6/Gestion_De_Citas_Medicas"
+          link="https://frontend-prescripciones-medicas.vercel.app/"
           h3="FitLift"
           p="Fitness App"
         />
