@@ -1,9 +1,9 @@
 import React from 'react'
 import styles from './ProjectsStyles.module.css'
 import innovatech from '../../assets/logoInnovatech.png'
-import freshBurger from '../../assets/fresh-burger.png'
-import hipsster from '../../assets/hipsster.png'
-import fitLift from '../../assets/fitlift.png'
+import dashboard from '../../assets/dashboard.jpg'
+import chatbot from '../../assets/chatbotweb.png'
+import mediPrescript from '../../assets/mediprescript.png'
 import ProjectCard from '../../common/ProjectCard'
 
 function Projects() {
@@ -19,24 +19,24 @@ function Projects() {
         />
 
         <ProjectCard 
-          src={freshBurger}
+          src={dashboard}
           link="https://dashboard-project-coral-mu.vercel.app/"
-          h3="Fresh Burger"
-          p="Dashboard Project"
+          h3="Dashboard Project"
+          p="Dashboard for E-commerce"
         />
 
         <ProjectCard 
-          src={hipsster}
+          src={chatbot}
           link="https://chatbot-para-negocio.vercel.app/"
-          h3="Hipsster"
-          p="Glasses Shop"
+          h3="Studio Bella"
+          p="Chatbot for Business"
         />
 
         <ProjectCard 
-          src={fitLift}
+          src={mediPrescript}
           link="https://frontend-prescripciones-medicas.vercel.app/"
-          h3="FitLift"
-          p="Fitness App"
+          h3="MediPrescript"
+          p="Prescription Management System"
         />
         
       </div>
